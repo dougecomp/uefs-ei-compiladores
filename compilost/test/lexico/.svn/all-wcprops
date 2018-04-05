@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/489/trunk/compilost/test/lexico
+END
+TestStringAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestStringAutomaton.java
+END
+TestCodeBufferBlockComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestCodeBufferBlockComment.java
+END
+TestLexico.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/489/trunk/compilost/test/lexico/TestLexico.java
+END
+TestOperatorAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestOperatorAutomaton.java
+END
+TestDelimiterAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestDelimiterAutomaton.java
+END
+TestCodeBufferInlineComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestCodeBufferInlineComment.java
+END
+TestCodeBufferSimpleCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestCodeBufferSimpleCode.java
+END
+CompilostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/430/trunk/compilost/test/lexico/CompilostTest.java
+END
+TestIdentifierAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestIdentifierAutomaton.java
+END
+TestNumericAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/430/trunk/compilost/test/lexico/TestNumericAutomaton.java
+END

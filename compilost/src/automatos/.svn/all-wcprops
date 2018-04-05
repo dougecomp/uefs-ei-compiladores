@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/430/trunk/compilost/src/automatos
+END
+StringAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/430/trunk/compilost/src/automatos/StringAutomaton.java
+END
+OperatorAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/430/trunk/compilost/src/automatos/OperatorAutomaton.java
+END
+DelimiterAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/430/trunk/compilost/src/automatos/DelimiterAutomaton.java
+END
+Automaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/430/trunk/compilost/src/automatos/Automaton.java
+END
+IdentifierAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/430/trunk/compilost/src/automatos/IdentifierAutomaton.java
+END
+NumericAutomaton.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/430/trunk/compilost/src/automatos/NumericAutomaton.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/456/trunk/Automatos
+END
+automatos_identificadores.jff
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/38/trunk/Automatos/automatos_identificadores.jff
+END
+automato_numerico.jff
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/196/trunk/Automatos/automato_numerico.jff
+END
+automato_comentarios.jff
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/169/trunk/Automatos/automato_comentarios.jff
+END
+automato_operadores.jff
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/trunk/Automatos/automato_operadores.jff
+END
+string_automaton.jff
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/47/trunk/Automatos/string_automaton.jff
+END
+automatos_delimitadores.jff
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/168/trunk/Automatos/automatos_delimitadores.jff
+END

@@ -1,0 +1,25 @@
+package semantico;
+
+/**
+ *
+ * @author caco
+ */
+public enum SemanticType {
+
+    TYPE_INTEIRO,
+    TYPE_REAL,
+    TYPE_CARACTERE,
+    TYPE_STRING,
+    TYPE_LOGICO,
+    TYPE_REGISTRO,
+    TYPE_INDEFINIDO,
+    TYPE_PERSONALIZADO,
+    TYPE_VAZIO,
+    TYPE_VETOR_INTEIRO,
+    TYPE_VETOR_REAL,
+    TYPE_VETOR_CARACTERE,
+    TYPE_VETOR_STRING,
+    TYPE_VETOR_LOGICO,
+    TYPE_VETOR_REGISTRO,
+    TYPE_VETOR_PERSONALIZADO,
+}

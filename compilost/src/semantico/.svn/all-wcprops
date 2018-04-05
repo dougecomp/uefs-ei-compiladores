@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/514/trunk/compilost/src/semantico
+END
+SemanticStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/509/trunk/compilost/src/semantico/SemanticStructure.java
+END
+SemanticType.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/506/trunk/compilost/src/semantico/SemanticType.java
+END
+TypeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/514/trunk/compilost/src/semantico/TypeTable.java
+END
+SymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/511/trunk/compilost/src/semantico/SymbolTable.java
+END
+SymbolTableEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/489/trunk/compilost/src/semantico/SymbolTableEntry.java
+END

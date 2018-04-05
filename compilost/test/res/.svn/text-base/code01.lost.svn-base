@@ -1,0 +1,45 @@
+algoritmo teste;
+
+constantes inteiro MAX = "teste";
+constantes real MIN = 20;
+
+variaveis inteiro teste = "teste";
+
+tipo inteiro int;
+tipo registro {
+    inteiro x;
+    real y;
+    int pos[];
+} pair;
+
+variaveis real vercompilost = 9.66;
+
+funcao vazio principal(){
+	funnn(a,b);
+	working();
+}
+
+funcao vazio resetar(logico tudo){
+    se(tudo) entao {
+	clear();
+    }
+    senao { clear(getActive()); }
+}
+
+funcao logico working(){
+	retorno(vetor[2555]);
+}
+
+funcao real gambiarra(inteiro mat[][], pair xy){
+    a = (25.6 + 2 * (43));
+    mat[x][y + 23 / REAL * a] = numeroMagico() / raiz(3.14);
+
+    se(x < (a || b * c)) entao {
+        variaveis logico test = alpha != (1 == 1);
+    }
+    senao {
+        variaveis logico test = beta > 1 / 2;
+    }
+}
+
+variaveis float exitCode = getRandom(false);

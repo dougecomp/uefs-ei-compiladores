@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/522/trunk/compilost/test/semantico
+END
+TestFatorProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/510/trunk/compilost/test/semantico/TestFatorProduction.java
+END
+TestSemantic.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/514/trunk/compilost/test/semantico/TestSemantic.java
+END
+TestDclrVarProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/516/trunk/compilost/test/semantico/TestDclrVarProduction.java
+END
+TestExprRelProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/522/trunk/compilost/test/semantico/TestExprRelProduction.java
+END
+TestValorProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/510/trunk/compilost/test/semantico/TestValorProduction.java
+END
+TestTermoProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/492/trunk/compilost/test/semantico/TestTermoProduction.java
+END
+SemanticTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/491/trunk/compilost/test/semantico/SemanticTestSuite.java
+END
+TestTipoPrimitivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/491/trunk/compilost/test/semantico/TestTipoPrimitivo.java
+END

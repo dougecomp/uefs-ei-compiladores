@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/489/trunk/compilost/test/sintatico
+END
+SintaticTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/489/trunk/compilost/test/sintatico/SintaticTestSuite.java
+END
+TestOpRelacional.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/489/trunk/compilost/test/sintatico/TestOpRelacional.java
+END
+TestProductions.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/461/trunk/compilost/test/sintatico/TestProductions.java
+END
+TestCast.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/430/trunk/compilost/test/sintatico/TestCast.java
+END
+TestExp.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/489/trunk/compilost/test/sintatico/TestExp.java
+END
+TestAlgoritmo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/430/trunk/compilost/test/sintatico/TestAlgoritmo.java
+END
+TestOpSoma.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/489/trunk/compilost/test/sintatico/TestOpSoma.java
+END
+TestSintatic.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/489/trunk/compilost/test/sintatico/TestSintatic.java
+END
+TestOpMult.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/489/trunk/compilost/test/sintatico/TestOpMult.java
+END
+TestOpIncDec.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/489/trunk/compilost/test/sintatico/TestOpIncDec.java
+END
